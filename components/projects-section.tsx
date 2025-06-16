@@ -15,7 +15,7 @@ export function ProjectsSection() {
     {
       title: "Schoolnet",
       description:
-        "choolNet is a modern web application built with Next.js that provides a comprehensive school management system. It offers features for different user roles including school administrators, teachers, and parents.",
+        "SchoolNet is a modern web application built with Next.js that provides a comprehensive school management system. It offers features for different user roles including school administrators, teachers, and parents.",
       image: "/skill/schoolnet.png",
       tags: [
         "Next.js",
